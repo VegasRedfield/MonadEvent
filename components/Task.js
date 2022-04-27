@@ -16,7 +16,6 @@ const Task = (props) => {
 
 const styles = StyleSheet.create({
   item: {
-    width: "90%",
     backgroundColor: "#FFF",
     padding: 15,
     borderRadius: 10,
@@ -36,7 +35,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#55BCF6",
     opacity: 0.4,
     borderRadius: 5,
-    marginRight: 30,
+    marginRight: 15,
   },
   itemText: {
     maxWidth: "80%",
